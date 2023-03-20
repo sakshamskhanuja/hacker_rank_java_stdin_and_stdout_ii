@@ -2,11 +2,12 @@
 
 ### About
 
-In this challenge, you must read an ```integer```, a ```double```, and a ```String``` from stdin, then print the values according to the instructions in the Output Format section below.
+In this challenge, you must read an ```integer```, a ```double```, and a ```String``` from stdin, then print the values
+according to the instructions in the Output Format section below.
 
 ### Input Format
 
-There are three lines of input: 
+There are three lines of input:
 
 1. The first line contains an integer.
 2. The second line contains a double.

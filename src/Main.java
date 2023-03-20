@@ -22,6 +22,9 @@ public class Main {
             System.out.println("Int: " + a);
         } catch (NumberFormatException e) {
             System.out.println("Entered value cannot be parsed.");
+        } finally {
+            // Closes the scanner.
+            scanner.close();
         }
     }
 }
